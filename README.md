@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Murat in HERE !</h1>
-<h3>A passionate part time jr. front-end developer part time Project manager</h3>
+<h3>A passionate Prompt Engineering</h3>
 
 <p align="left"> <a href="https://twitter.com/muratceliketh_" target="blank"><img src="https://img.shields.io/twitter/follow/muratceliketh_?logo=twitter&style=for-the-badge" alt="muratceliketh_" /></a> </p>
 
-- 🔭 I’m currently working on [Blog Page in Web3 ⛓️](https://github.com/Sau-Blockchain/sau-blockchain-website)
+- 🔭 I’m currently working on AI NEWS TRACKER
 
 - 🌱 I’m currently learning **React , Nextjs**
 
